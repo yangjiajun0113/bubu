@@ -1,0 +1,16 @@
+{
+  "name": "布布记账",
+  "short_name": "布布记账",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f3f4f6",
+  "theme_color": "#6750A4",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://cdn.jsdelivr.net/gh/lucide-icons/lucide/icons/wallet.svg",
+      "type": "image/svg+xml",
+      "sizes": "any"
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+{
+  "name": "BUBU Ledger",
+  "description": "An offline-first, mobile-optimized expense tracker featuring comprehensive charts, transaction management, and local data persistence, designed with a Material 3 aesthetic.",
+  "requestFramePermissions": []
+}
